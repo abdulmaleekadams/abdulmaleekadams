@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adams</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate fullstack developer in view</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmaleekadams&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmaleekadams" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Software engineering**
+- 🌱 I’m currently learning **Software engineering** @ALX
 
 - 👯 I’m looking to collaborate on **web app based project**
 
